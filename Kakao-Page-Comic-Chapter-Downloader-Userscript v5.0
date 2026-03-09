@@ -6,7 +6,7 @@
     // @version      5.0
     // @description  Download Kakao Page chapters - Click graphql request or paste JSON
     // @author       ozler365
-    // @license      MIT
+    // @license      GPL-3.0-only
     // @match        https://page.kakao.com/*
     // @match        https://*.kakao.com/*
     // @icon         https://t1.kakaocdn.net/kakaopageWeb/real/logo/kakaopageLogo.png
